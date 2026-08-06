@@ -26,7 +26,7 @@ import {
 const NOMBRE_INSTITUTO = "Brújula Educativa";
 // Número de WhatsApp de administración, con código de país, SIN "+" ni espacios.
 // Ejemplo Argentina: 54 9 11 1234-5678 -> "5491112345678"
-const NUMERO_WHATSAPP = "549112804691757";
+const NUMERO_WHATSAPP = "5492804691757";
 
 const HORA_APERTURA = 8; // 08:00
 const HORA_CIERRE = 22; // 22:00 (última reserva de profesional termina a esta hora)
