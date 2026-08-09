@@ -9,11 +9,11 @@ body,
 }
 
 body {
-  background-color: #f1ecdd;
+  background-color: #f3f1f8;
   background-image:
-    radial-gradient(circle at 1px 1px, rgba(30, 42, 69, 0.06) 1px, transparent 0);
+    radial-gradient(circle at 1px 1px, rgba(67, 70, 140, 0.07) 1px, transparent 0);
   background-size: 22px 22px;
-  color: #1e2a45;
+  color: #43468c;
   font-family: "Inter", sans-serif;
 }
 
@@ -27,7 +27,7 @@ body {
 
 /* Foco visible accesible en toda la app */
 :focus-visible {
-  outline: 2px solid #b8863b;
+  outline: 2px solid #e8962e;
   outline-offset: 2px;
 }
 
